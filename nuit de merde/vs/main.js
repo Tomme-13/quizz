@@ -2,7 +2,7 @@
 const Questions = [{
     id: 0,
     q: "Qu'est-ce qu'une IST?",
-    a: [{ text: " ", isCorrect: false },
+    a: [{ text: "", isCorrect: false },
         { text: "", isCorrect: false },
         { text: "Infection Sexuellement Transmissible", isCorrect: true },
         { text: "", isCorrect: false }
@@ -11,17 +11,17 @@ const Questions = [{
 },
 {
     id: 1,
-    q: "",
-    a: [{ text: "", isCorrect: false, isSelected: false },
-        { text: "", isCorrect: false },
-        { text: "", isCorrect: false },
-        { text: "", isCorrect: true }
+    q: "QUEL EST LE MOYEN DE CONTRACEPTION LE PLUS EFFICACE ?",
+    a: [{ text: "la pilule contraceptive", isCorrect: false, isSelected: false },
+        { text: "porter des chaussettes au lit", isCorrect: false },
+        { text: "le diaphragme", isCorrect: false },
+        { text: "le preservatif", isCorrect: true }
     ]
 
 },
 {
     id: 2,
-    q: "",
+    q: "Combien de temps dure en moyenne un rapport sexuel ?",
     a: [{ text: "", isCorrect: false },
         { text: "", isCorrect: false },
         { text: "", isCorrect: true },
