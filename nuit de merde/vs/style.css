@@ -164,7 +164,7 @@ body{
   /* **************** IMAGE PRINCIPALE ************* */
   #imagePrincipale {
     padding-top: 60px;
-    background: url(file:///D:/Utilisateur/Documents/Projet%20WEB/src/img/imagePrincipale.JPG)no-repeat fixed 50% 50%;
+    background: url(https://cdn.paris.fr/qfapv4/2022/11/24/huge-edb3ff9d6ffe61a714334053433e142e.jpeg)no-repeat fixed 50% 50%;
     background-size: cover;
     height: 700px;
   }
