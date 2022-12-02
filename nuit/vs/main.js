@@ -168,4 +168,4 @@ Suivante.addEventListener("click", () => {
     }
   
 })
-// fin
+// fin js
